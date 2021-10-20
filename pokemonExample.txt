@@ -1,0 +1,250 @@
+Name: Absol
+Tier Rating: B Rank Icon
+Role: Speedster
+Attack Type: Melee
+Damage Type: Physical
+Difficulty: Expert
+Cost:
+Aeos Coins.png 10000 / Aeos Gems.png 575
+"Absol is a Pokémon that can close the distance in an instant and deal massive amounts of damage."
+
+Name: Alolan Ninetales
+Tier Rating: A Rank Icon
+Role: Attacker
+Attack Type: Ranged
+Damage Type: Special
+Difficulty: Intermediate
+Cost:
+Aeos Coins.png 8000 / Aeos Gems.png 460
+"Alolan Ninetales uses moves that freeze its opponents in ice, making them unable to move or attack."
+
+Name: Blastoise
+Tier Rating: SS Rank Icon
+Role: Defender
+Attack Type: Ranged
+Damage Type: Special
+Difficulty: Intermediate
+Cost:
+Aeos Coins.png 8000 / Aeos Gems.png 460
+"Blastoise is a durable ranged defender that can make use of its several mobility skills to move itself and enemies into the ideal areas of the battlefield."
+
+Name: Blissey
+Tier Rating: S Rank Icon
+Role: Supporter
+Attack Type: Melee
+Damage Type: Special
+Difficulty: Novice
+Cost:
+Aeos Coins.png 8000 / Aeos Gems.png 460
+"Blissey is a Pokémon that excels at supporting its allies with moves that restore HP, cure status conditions, or empower allies!"
+
+Name: Charizard
+Tier Rating: A Rank Icon
+Role: All-Rounder
+Attack Type: Melee
+Damage Type: Physical
+Difficulty: Novice
+Cost:
+Aeos Coins.png 6000 / Aeos Gems.png 345
+"When it’s still a Charmander, it’s not the most reliable, but when it evolves into Charizard, it can use its powerful moves to attack and deal damage over a wide area."
+
+Name: Cinderace
+Tier Rating: S Rank Icon
+Role: Attacker
+Attack Type: Ranged
+Damage Type: Physical
+Difficulty: Novice
+Cost:
+Aeos Coins.png 8000 / Aeos Gems.png 460
+"Cinderace doesn’t just have high attack power—it’s also got the speed to drive opponents crazy."
+
+Name: Cramorant
+Tier Rating: S Rank Icon
+Role: Attacker
+Attack Type: Ranged
+Damage Type: Special
+Difficulty: Expert
+Cost:
+Aeos Coins.png 8000 / Aeos Gems.png 460
+"Cramorant is the Gulp Pokémon. Cramorant’s Ability, Gulp Missile, allows it to attack by spitting out prey it catches with Dive."
+
+Name: Crustle
+Tier Rating: S Rank Icon
+Role: Defender
+Attack Type: Melee
+Damage Type: Physical
+Difficulty: Novice
+Cost:
+Aeos Coins.png 8000 / Aeos Gems.png 460
+"Crustle hinders its opponents using many different moves."
+
+Name: Eldegoss
+Tier Rating: A Rank Icon
+Role: Supporter
+Attack Type: Ranged
+Damage Type: Special
+Difficulty: Novice
+Cost:
+Aeos Coins.png 6000 / Aeos Gems.png 345
+"Eldegoss is a master supporter that can restore its allies’ HP and boost their movement speed."
+
+Name: Garchomp
+Tier Rating: B Rank Icon
+Role: All-Rounder
+Attack Type: Melee
+Damage Type: Physical
+Difficulty: Intermediate
+Cost:
+Aeos Coins.png 10000 / Aeos Gems.png 575
+"Garchomp’s Ability, Rough Skin, means it can sometimes cause damage to Pokémon that hit it, so opponents that attack Garchomp carelessly may just get struck back. What’s more, using Dig lets Garchomp sneak-attack its opponents from underground."
+
+Name: Gardevoir
+Tier Rating: C Rank Icon
+Role: Attacker
+Attack Type: Ranged
+Damage Type: Special
+Difficulty: Intermediate
+Cost:
+Aeos Coins.png 8000 / Aeos Gems.png 460
+"Gardevoir strikes its opponents from far away with its mysterious psychic power. It has a lot of moves with unique movements, but they are very powerful when used effectively."
+
+Name: Gengar
+Tier Rating: S Rank Icon
+Role: Speedster
+Attack Type: Melee
+Damage Type: Special
+Difficulty: Expert
+Cost:
+Aeos Coins.png 10000 / Aeos Gems.png 575
+"Gengar, a Pokémon that lurks in the shadows, is a master of surprise attacks."
+
+Name: Greninja
+Tier Rating: A Rank Icon
+Role: Attacker
+Attack Type: Ranged
+Damage Type: Physical
+Difficulty: Expert
+Cost:
+Aeos Coins.png 10000 / Aeos Gems.png 575
+"Greninja is a Pokémon that uses smokescreens and illusory copies of itself to hide."
+
+Name: Lucario
+Tier Rating: SS Rank Icon
+Role: All-Rounder
+Attack Type: Melee
+Damage Type: Physical
+Difficulty: Expert
+Cost:
+Aeos Coins.png 10000 / Aeos Gems.png 575
+"Lucario is a well-balanced Pokémon that combines speed and attack power."
+
+Name: Machamp
+Tier Rating: B Rank Icon
+Role: All-Rounder
+Attack Type: Melee
+Damage Type: Physical
+Difficulty: Intermediate
+Cost:
+Aeos Coins.png 8000 / Aeos Gems.png 460
+"Machamp is a Pokémon that specializes in melee combat, powered by its strong fighting moves."
+
+Name: Mamoswine
+Tier Rating: A Rank Icon
+Role: Defender
+Attack Type: Melee
+Damage Type: Physical
+Difficulty: Intermediate
+Cost:
+Aeos Coins.png 8000 / Aeos Gems.png 460
+"Mamoswine is a high-durability Pokemon with an arsenal of crowd-control moves capable of directing teamfights to its favor."
+
+Name: Mr. Mime
+Tier Rating: SS Rank Icon
+Role: Supporter
+Attack Type: Melee
+Damage Type: Special
+Difficulty: Intermediate
+Cost:
+Aeos Coins.png 8000 / Aeos Gems.png 460
+"Mr. Mime specializes in hindering opposing Pokémon with its tricky moves."
+
+Name: Pikachu
+Tier Rating: S Rank Icon
+Role: Attacker
+Attack Type: Ranged
+Damage Type: Special
+Difficulty: Novice
+Cost:
+Aeos Coins.png 6000 / Aeos Gems.png 345
+"Pikachu is a Pokémon that excels at attacking opponents from far away with electricity. Sometimes the attacks even leave opposing Pokémon paralyzed!"
+
+Name: Slowbro
+Tier Rating: A Rank Icon
+Role: Defender
+Attack Type: Ranged
+Damage Type: Special
+Difficulty: Intermediate
+Cost:
+Aeos Coins.png 6000 / Aeos Gems.png 345
+"No matter the situation, Slowbro goes about life at its own pace. With its characteristic high defense and blissful unawareness, Slowbro is unfazed by opponents’ attacks."
+
+Name: Snorlax
+Tier Rating: SS Rank Icon
+Role: Defender
+Attack Type: Melee
+Damage Type: Physical
+Difficulty: Novice
+Cost:
+Aeos Coins.png 6000 / Aeos Gems.png 345
+"Snorlax can take a lot of hits. It’s a dependable Pokémon that can protect its allies from harm."
+
+Name: Sylveon
+Tier Rating: S Rank Icon
+Role: Attacker
+Attack Type: Ranged
+Damage Type: Special
+Difficulty: Intermediate
+Cost:
+Aeos Coins.png 10000 / Aeos Gems.png 575
+"Sylveon is effective against Sp.Atk. Pokemon, weakening their damage output while increasing both its Sp.Atk. and Sp.Def. stats."
+
+Name: Talonflame
+Tier Rating: B Rank Icon
+Role: Speedster
+Attack Type: Melee
+Damage Type: Physical
+Difficulty: Novice
+Cost:
+Aeos Coins.png 6000 / Aeos Gems.png 345
+"Talonflame toys with the opposing team by using its moves to quickly maneuver itself and fly over obstacles."
+
+Name: Venusaur
+Tier Rating: SS Rank Icon
+Role: Attacker
+Attack Type: Ranged
+Damage Type: Special
+Difficulty: Intermediate
+Cost:
+Aeos Coins.png 8000 / Aeos Gems.png 460
+"If its moves land successfully, Venusaur can deal a huge amount of damage to its opponents, even from far away."
+
+Name: Wigglytuff
+Tier Rating: S Rank Icon
+Role: Supporter
+Attack Type: Melee
+Damage Type: Special
+Difficulty: Intermediate
+Cost:
+Aeos Coins.png 8000 / Aeos Gems.png 460
+"Wigglytuff learns lots of moves that can stop opponents in their tracks, making it well-suited to using teamwork tactics with its allies in battle."
+
+Name: Zeraora
+Tier Rating: S Rank Icon
+Role: Speedster
+Attack Type: Melee
+Damage Type: Physical
+Difficulty: Expert
+Cost:
+Aeos Coins.png 8000 / Aeos Gems.png 460
+"Zeraora can close the distance between itself and its opponents as fast as lightning, dealing massive amounts of damage all at once."
+
